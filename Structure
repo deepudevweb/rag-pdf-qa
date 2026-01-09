@@ -1,0 +1,8 @@
+rag-pdf-qa/
+├── step1_extract_text.py      # Extract PDF text
+├── step2_create_embeddings.py # Create embeddings
+├── step3_setup_rag.py         # Setup vector DB
+├── step4_query_system.py      # Q&A interface
+├── requirements.txt           # Dependencies
+├── data/                      # Your PDFs here
+└── output/                    # Generated files
