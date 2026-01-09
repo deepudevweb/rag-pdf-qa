@@ -10,6 +10,15 @@ AI-powered system for answering questions from PDF documents using Retrieval-Aug
 - ✅ Interactive Q&A system
 - ✅ Works offline (no API keys needed)
 
+## 🌐 Web Interface
+
+Launch the web interface:
+
+```bash
+pip install gradio
+python app.py
+
+
 ## 🚀 Quick Start
 
 ### Installation
